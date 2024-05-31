@@ -11,7 +11,7 @@
         <relativePath/>
     </parent>
 
-    <groupId>com.zufarexplainedit</groupId>
+    <groupId>lab.hasan</groupId>
     <artifactId>hello</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>Hello</name>
@@ -19,8 +19,8 @@
 
     <developers>
         <developer>
-            <name>Zufar Sunagatov</name>
-            <organization>Zufar Explaind IT</organization>
+            <name>Hasanuddin Djamil</name>
+            <organization>FD</organization>
             <roles>
                 <role>Owner</role>
                 <role>Developer</role>
